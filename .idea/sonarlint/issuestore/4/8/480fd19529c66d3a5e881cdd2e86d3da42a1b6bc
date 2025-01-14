@@ -1,0 +1,10 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8¶½µ›Æ2
+Q
+java:S1066""/Merge this if statement with the enclosing one.(ÿ¨‘Çþÿÿÿÿ8¶½µ›Æ2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ƒ ˆáüÿÿÿÿ8 ¿µ›Æ2
+:
+java:S2119."Save and re-use this "Random".(¼ÝÅf8¦¿µ›Æ2
+;
+java:S21197"Save and re-use this "Random".(¾Ë÷´8·ƒ¶›Æ2
